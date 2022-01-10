@@ -10,5 +10,3 @@ We have noticed that many Omani students buy assignments and get scammed. Even, 
 I myself am a South Asian but i graduated from a college in Oman due to which i have seen people men and women getting scammed. Students fail or get low marks while you pay High Amount for assignments. 
 
 You can find all the Old assignments in this github repository. 
-
-my Email for contact: itsanonymous19@gmail.com
