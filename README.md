@@ -1,6 +1,6 @@
-# Middle-East-College
+# Why we created this Repository?
 
-##Asalam walaikum
+## Asalam walaikum
 
 This repository was created to help Students studying in Oman Universities and Colleges. You can share your old assignments with me by my email with the module code, module name and your specialization.
 
